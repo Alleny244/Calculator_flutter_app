@@ -3,6 +3,7 @@
 A new Flutter project.
 This is a calculator test application built using Flutter. As a test of the framework, I wanted to implement something simple that would help me get the basics down.
 
+
 ## Getting Started
 
 Follow the steps below to run the app on your local machine.
@@ -15,6 +16,16 @@ Let me know if you encounter issues with the calculator
 4. Try it out.
 (Please note that a Mac with XCode is required to build for iOS)
 
+
+
+| Calculator Screen | |
+| --- | --- |
+|  ![Demo](/images/demo.png) |  |
+
+
+
+
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
@@ -23,6 +34,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
 
 
 ## Contributing
