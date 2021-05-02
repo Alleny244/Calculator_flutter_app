@@ -18,12 +18,9 @@ Let me know if you encounter issues with the calculator
 
 
 
-| Calculator Screen | |
-| --- | --- |
-|  ![Demo](/images/demo.png) |  |
+### Calculator Screen 
 
-
-
+<img src="images/demo.png" width="350" height="610"/>
 
 
 A few resources to get you started if this is your first Flutter project:
